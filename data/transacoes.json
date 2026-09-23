@@ -1,0 +1,9 @@
+{
+  "usuario": "Guilherme",
+  "saldo_atual": 450.00,
+  "transacoes": [
+    {"data": "2026-06-01", "tipo": "entrada", "valor": 1200.00, "descricao": "Freela de Design", "categoria": "Renda"},
+    {"data": "2026-06-02", "tipo": "saida", "valor": 45.00, "descricao": "Rolê no bar", "categoria": "Lazer"},
+    {"data": "2026-06-03", "tipo": "saida", "valor": 35.50, "descricao": "iFood", "categoria": "Delivery"}
+  ]
+}
